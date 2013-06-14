@@ -1,4 +1,6 @@
 [
+	{ "keys": ["super+alt+d"], "command": "run_macro_file",
+	  "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 	// Auto-pair single quotes
 	{ "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":
 		[
