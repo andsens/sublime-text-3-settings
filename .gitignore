@@ -1,2 +1,4 @@
-*.sublime-workspace
-*.sublime-project
+Package Control.*
+.DS_Store
+BufferScroll.sublime-settings
+BufferScroll.bin.gz

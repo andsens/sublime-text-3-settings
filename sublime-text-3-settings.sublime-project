@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"name": "User",
+			"file_exclude_patterns": ["Package Control.*"],
+			"folder_exclude_patterns": ["Package Control.*"]
+		},
+		{
+			"follow_symlinks": true,
+			"path": "..",
+			"name": "Packages"
+		}
+	]
+}
