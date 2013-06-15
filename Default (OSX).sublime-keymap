@@ -1,6 +1,42 @@
 [
+
+	// Layout management
+
+	{ "keys": ["ctrl+k", "."],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1]]
+		}
+	},
+	{ "keys": ["ctrl+k", "|"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.5, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	},
+	{ "keys": ["ctrl+k", "_"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 1.0],
+			"rows": [0.0, 0.5, 1.0],
+			"cells": [[0, 0, 1, 1], [0, 1, 1, 2]]
+		}
+	},
+
+	// Comment line
+	{ "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": false } },
+	
+	// Delete line
 	{ "keys": ["super+alt+d"], "command": "run_macro_file",
 	  "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+
 	// Auto-pair single quotes
 	{ "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":
 		[
