@@ -9,7 +9,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"fold_buttons": false,
-	"font_face": "Bitstream Vera Sans Mono",
+	"font_face": "Inconsolata-dz",
 	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
