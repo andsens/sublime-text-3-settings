@@ -15,7 +15,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Python Auto-Complete"
 	],
 	"margin": 0,
 	"remember_open_files": true,
