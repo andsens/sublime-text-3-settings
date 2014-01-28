@@ -1,19 +1,4 @@
 {
-  "pep8": true,
-	"pep8_ignore":
-	[
-		"E101",
-		"E221",
-		"E501",
-		"W191"
-	],
-	
-	"jshint_options":
-	{
-		"indent": 1
-	},
-	
-	// CSSLint options:
 	"csslint_options":
 	{
 		"adjoining-classes": false,
@@ -47,5 +32,24 @@
 		"universal-selector": false,
 		"vendor-prefix": false,
 		"zero-units": false
+	},
+	"jshint_options":
+	{
+		"indent": 1
+	},
+	"pep8": true,
+	"pep8_ignore":
+	[
+		"E101",
+		"E221",
+		"E501",
+		"W191"
+	],
+	"user":
+	{
+		"gutter_theme": "",
+		"linters":
+		{
+		}
 	}
 }
