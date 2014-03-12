@@ -2,6 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
+	"caret_extra_width": 1,
 	"caret_style": "wide",
 	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
 	"default_line_ending": "unix",
@@ -16,6 +17,10 @@
 	[
 		"Python Auto-Complete",
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
 	],
 	"margin": 0,
 	"remember_open_files": true,
