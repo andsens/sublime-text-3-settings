@@ -7,13 +7,38 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "coffeelint": {
+                "@disable": false,
+                "args": ["-f", "/Users/aim/Library/Application Support/Sublime Text 3/Packages/User/Linters/coffeelint.json"],
+                "excludes": []
+            },
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "pep8": {
                 "@disable": false,
-                "args": ["--ignore=E101,E221,E241,E501,W191"],
+                "args": [
+                    "--ignore=E101,E221,E241,E501,W191"
+                ],
                 "excludes": [],
                 "ignore": "",
                 "max-line-length": null,
                 "select": ""
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             },
             "puppetlint": {
                 "@disable": false,
