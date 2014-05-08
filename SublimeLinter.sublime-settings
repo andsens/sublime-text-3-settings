@@ -9,7 +9,10 @@
         "linters": {
             "coffeelint": {
                 "@disable": false,
-                "args": ["-f", "/Users/aim/Library/Application Support/Sublime Text 3/Packages/User/Linters/coffeelint.json"],
+                "args": [
+                    "-f",
+                    "/Users/aim/Library/Application Support/Sublime Text 3/Packages/User/Linters/coffeelint.json"
+                ],
                 "excludes": []
             },
             "csslint": {
