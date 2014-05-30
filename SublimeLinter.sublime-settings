@@ -23,6 +23,16 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "flake8": {
+                "@disable": false,
+                "args": [],
+                "builtins": "",
+                "excludes": [],
+                "ignore": "",
+                "max-complexity": -1,
+                "max-line-length": null,
+                "select": ""
+            },
             "json": {
                 "@disable": false,
                 "args": [],
