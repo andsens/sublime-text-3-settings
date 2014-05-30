@@ -30,7 +30,7 @@
                 "excludes": [],
                 "ignore": "",
                 "max-complexity": -1,
-                "max-line-length": null,
+                "max-line-length": 110,
                 "select": ""
             },
             "json": {
@@ -42,11 +42,10 @@
             "pep8": {
                 "@disable": false,
                 "args": [
-                    "--ignore=E101,E221,E241,E501,W191"
                 ],
                 "excludes": [],
-                "ignore": "",
-                "max-line-length": null,
+                "ignore": "E101,E221,E241,E501,W191",
+                "max-line-length": 110,
                 "select": ""
             },
             "php": {
