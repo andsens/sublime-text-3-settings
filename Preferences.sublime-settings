@@ -1,11 +1,11 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": false,
 	"caret_extra_width": 1,
 	"caret_style": "wide",
 	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
 	"default_line_ending": "unix",
-	"bold_folder_labels": false,
 	"drag_text": false,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,

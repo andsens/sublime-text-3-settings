@@ -36,7 +36,8 @@
             "json": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "excludes": [],
+                "strict": true
             },
             "pep8": {
                 "@disable": false,
