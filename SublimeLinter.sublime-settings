@@ -41,8 +41,7 @@
             },
             "pep8": {
                 "@disable": false,
-                "args": [
-                ],
+                "args": [],
                 "excludes": [],
                 "ignore": "E101,E221,E241,E501,W191",
                 "max-line-length": 110,
