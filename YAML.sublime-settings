@@ -1,7 +1,9 @@
 {
 	"extensions":
 	[
-		"yml"
+		"yml",
+		"yml.dist",
+		".gemrc"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true

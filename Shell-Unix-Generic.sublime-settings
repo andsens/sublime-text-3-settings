@@ -1,6 +1,9 @@
 {
 	"extensions":
 	[
-		"bats"
+		"sh",
+		"bats",
+		"bash",
+		"zsh"
 	]
 }
