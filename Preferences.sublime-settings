@@ -15,8 +15,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Python Auto-Complete",
-		"Vintage"
+		"Vintage",
+		"Python Auto-Complete"
 	],
 	"indent_guide_options":
 	[
