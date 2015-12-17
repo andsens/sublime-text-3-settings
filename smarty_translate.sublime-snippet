@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\{translate UID=${1:UID} subUID=${2:subUID}\}\{/translate
+]]></content>
+	<tabTrigger>{tr</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

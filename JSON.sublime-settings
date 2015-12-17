@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		".bowerrc",
+		".eslintrc",
+		".jshintrc",
+		".jscsrc",
+		".csslintrc"
+	]
+}
