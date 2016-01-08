@@ -1,5 +1,7 @@
 [
 
+	// Find all under.
+	{ "keys": ["ctrl+super+d"], "command": "find_all_under" },
 	// Comment line
 	{ "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": false } },
 
