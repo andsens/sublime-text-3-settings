@@ -2,9 +2,9 @@
 	"extensions":
 	[
 		".bowerrc",
-		".eslintrc",
-		".jshintrc",
 		".jscsrc",
+		".jshintrc",
+		".eslintrc",
 		".csslintrc"
 	]
 }
