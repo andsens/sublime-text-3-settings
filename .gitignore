@@ -1,4 +1,4 @@
-Package Control.*
-.DS_Store
-BufferScroll.sublime-settings
-BufferScroll.bin.gz
+/Package Control.*
+/BufferScroll.sublime-settings
+/BufferScroll.bin.gz
+/oscrypto-ca-bundle.crt
