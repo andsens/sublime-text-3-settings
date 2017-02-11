@@ -1,11 +1,12 @@
 {
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
 	"extensions":
 	[
 		"zsh",
 		"bats",
 		"bash",
-		"sh"
-	]
+		"sh",
+		".zshrc"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
 }
